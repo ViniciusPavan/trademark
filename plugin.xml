@@ -10,7 +10,7 @@
         </short>
         <long>
             <en><![CDATA[
-               # Trademark for GLPI >= 9.5
+               # Trademark for GLPI >= 10
 
                ![Lint](https://github.com/LibreCodeCoop/trademark/workflows/Lint/badge.svg)
                [![CodeFactor](https://www.codefactor.io/repository/github/LibreCodeCoop/trademark/badge)](https://www.codefactor.io/repository/github/LibreCodeCoop/trademark)
@@ -37,7 +37,7 @@
         <version>
             <num>1.0.0</num>
             <compatibility>9.4</compatibility>
-            <compatibility>9.5</compatibility>
+            <compatibility>10</compatibility>
         </version>
     </versions>
     <langs>
